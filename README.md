@@ -7,6 +7,7 @@ ___
 
 👩‍💻 I'm interested in Data Analysis. In my repositories you can see educational projects related to this sphere. I have some experience in Python and SQL. Moreover statistics knowledge helps me to use these skills in Data Science and Data Analysis. 
 ___
-###How to reach me 📫
+
+### How to reach me 📫
 Email: kattievoop@gmail.com
 
